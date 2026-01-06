@@ -119,13 +119,13 @@ spice-vdagent
 baobab
 epiphany
 evince
-gdm
+#gdm
 gnome-backgrounds
 gnome-calendar
 gnome-clocks
 gnome-color-manager
 gnome-connections
-gnome-console
+#gnome-console
 gnome-control-center
 gnome-disk-utility
 gnome-keyring
@@ -166,3 +166,20 @@ flatpak
 xorg-server
 akshara-git
 grub
+
+# Archi3
+i3-wm
+i3status
+i3lock
+dmenu
+alacritty
+picom
+feh
+
+pcmanfm
+network-manager-applet
+polkit-gnome
+
+lightdm
+lightdm-gtk-greeter
+
