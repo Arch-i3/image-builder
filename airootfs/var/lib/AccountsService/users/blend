@@ -1,6 +1,7 @@
 [User]
-Language=en_US.UTF-8
-Session=gnome-kiosk-script-wayland
-PasswordHint=
-Icon=
-SystemAccount=false
+#Language=en_US.UTF-8
+#Session=gnome-kiosk-script-wayland
+#PasswordHint=
+#Icon=
+#SystemAccount=false
+XSession=i3
